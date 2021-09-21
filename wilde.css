@@ -26,6 +26,9 @@
 .BASILDON{
     color:rebeccapurple;
 }
+.Goring{
+    color: blue;
+}
 #actors th {
     padding-top: 12px;
     padding-bottom: 12px;
@@ -38,7 +41,9 @@
     border: 1px solid #ddd;
     padding: 8px;
   }
-#actors{
-  margin: 25px 50px;
-
-}
+  table, th, td {
+    border: 1px solid black;
+  }
+  .name:hover{
+      color: lightgreen;
+  }
