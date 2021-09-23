@@ -60,14 +60,16 @@
     }
     ul.navbar-horizontal a {
     display:block;
-    padding:8px    }
+    padding: 20px;
+    color: red;
+    }
     ul.navbar-horizontal a:hover {
     background-color: #555;
     color:white;
     }
     img {
-        width: 100%;
-        height: auto;
+        width:300;
+        height:300;
       }
  
   
